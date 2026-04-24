@@ -1,0 +1,13 @@
+backend/node_modules/
+frontend/expense-tracker/node_modules/
+backend/.env
+frontend/expense-tracker/.env
+backend/uploads/
+.git_status_output.txt
+.git_status_remote.txt
+.vscode/
+*.log
+*.log.*
+npm-debug.log*
+.DS_Store
+
